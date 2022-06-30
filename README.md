@@ -1,5 +1,5 @@
 # Lab Experience
-###Lab experience: the microfabrication process of electro-optical devices, while attempting to achieve high doping level in a silicon substrate
+### Lab experience: the microfabrication process of electro-optical devices, while attempting to achieve high doping level in a silicon substrate
 ---
 This repo contains the material used during the lab experience @ PoliMi-Polifab lab in may 2022.
 The group was composed by Alessandro Andrea Vogrig, Matteo Rossetto, Xiaohui Xu, tutored by Andrea Scaccabarozzi. The professor was Andrea Ivano Melloni.
